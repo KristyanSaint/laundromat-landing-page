@@ -215,7 +215,7 @@ function App() {
 
       {/* WHY CHOOSE WASH YARD */}
       <section id="why-choose" className="why-choose slideUp">
-        <h2>Why Choose Wash Yard ?</h2>
+        <h2>Why Choose Wash Yard?</h2>
         <div className="reasons">
           <div className="card reason slideUp">
             <FaMapMarkedAlt size={60} />
